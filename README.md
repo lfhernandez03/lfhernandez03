@@ -56,14 +56,12 @@
 
 ###
 
-<p align="left"></p>
+###
+
+<p align="left">🚀 Siempre estoy abierto a nuevas oportunidades y colaboraciones. Si tienes una idea genial o simplemente quieres charlar sobre tecnología, ¡no dudes en escribirme! 😃
+</p>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lfhernandez03/lfhernandez03/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lfhernandez03/lfhernandez03/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lfhernandez03/lfhernandez03/output/pacman-contribution-graph.svg">
-</picture>
 
-###
+
